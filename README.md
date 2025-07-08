@@ -74,9 +74,3 @@ Crie o banco de dados conforme os scripts fornecidos para as tabelas de alunos, 
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests com melhorias.
 
 ---
-
-## 📝 Licença
-
-Este projeto é de código aberto e está licenciado sob a MIT License.
-
-Se tiver dúvidas ou precisar de ajuda, sinta-se à vontade para entrar em contato. 😊
